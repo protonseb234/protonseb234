@@ -2,7 +2,7 @@
 - 👀 I’m interested in cooking, and web developing.
 - 🌱 I’m currently learning Lua U, and Batch.
 - 💞️ I’m looking to collaborate on small projects.
-- 📫 How to reach me - scc593@outlook.com - protonseb234@protonmail - booksite@protonmail - a01sebasweb@gmail.com
+- 📫 How to reach me - scc593@outlook.com - protonseb234@protonmail.com - booksite@protonmail.com - a01sebasweb@gmail.com
 
 <!---
 protonseb234/protonseb234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
